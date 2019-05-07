@@ -2,7 +2,7 @@
 
 - [Evolution Gaming on Github](https://github.com/evolution-gaming) - Scala, JavaScript, TypeScript, Erlang, Java and more.
 
-- [Evolution Gaming Engineering Careers](https://www.evolutiongamingcareers.com/engineering-positions/) - where all the nice engneering vacancies live.
+- [Evolution Gaming Engineering Careers](https://www.evolutiongamingcareers.com/engineering-positions/) - where all the nice engineering vacancies live.
 
 - [Evolution Engineering Video](https://www.youtube.com/watch?v=-kiFhekCUkw) - Our Culture, Technology and A-class office space.
 
