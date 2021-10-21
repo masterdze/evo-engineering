@@ -1,5 +1,7 @@
 ## Evolution Gaming Engineering
 
+![EVO Engineering Banner](https://media-exp1.licdn.com/dms/image/C4E16AQEY4xPGkQYhFw/profile-displaybackgroundimage-shrink_200_800/0/1630912468851?e=1640217600&v=beta&t=A2ZOfx9EqJOfpILkqnArUWa9GFHcfnWZlv7GaRSJACE)
+
 - [Evolution Gaming Engineering Homepage](https://eng.evolutiongaming.com) - Open source code, photos, videos, locations and jobs.
 
 - [Evolution Gaming on Github](https://github.com/evolution-gaming) - Scala, JavaScript, TypeScript, Erlang, Java and more.
