@@ -1,6 +1,6 @@
 ## Evolution Gaming Engineering
 
-![EVO Engineering Banner](https://media-exp1.licdn.com/dms/image/C4E16AQEY4xPGkQYhFw/profile-displaybackgroundimage-shrink_200_800/0/1630912468851?e=1640217600&v=beta&t=A2ZOfx9EqJOfpILkqnArUWa9GFHcfnWZlv7GaRSJACE)
+![EVO Engineering Banner](https://scontent.frix3-1.fna.fbcdn.net/v/t1.6435-9/p180x540/93495055_650006418889205_2504699226219347968_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=6NMXFI_VDpYAX9Dy2UF&tn=IdmwiJEcx5FR1E8v&_nc_ht=scontent.frix3-1.fna&oh=763b9ce656ab378a50ac82b9f32fe5dc&oe=61C82807)
 
 - [Evolution Gaming Engineering Homepage](https://eng.evolution.com) - Open source code, photos, videos, locations and jobs.
 
